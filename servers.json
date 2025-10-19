@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Hypixel",
+    "ip": "mc.hypixel.net",
+    "type": "PC",
+    "color": "#4CAF50"
+  },
+  {
+    "name": "CubeCraft",
+    "ip": "play.cubecraft.net",
+    "type": "PC",
+    "color": "#2196F3"
+  },
+  {
+    "name": "Mineplex",
+    "ip": "us.mineplex.com",
+    "type": "PC",
+    "color": "#FFC107"
+  }
+]
