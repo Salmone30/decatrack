@@ -16,7 +16,7 @@ export class SocketManager {
     
     // Esempio: Sostituisci IL_TUO_DOMINIO_O_IP e PORTA con i valori corretti.
     // Se usi un dominio/sottodominio e porta (es. 8443):
-    const TRACKER_ADDRESS = `wss://IL_TUO_DOMINIO_O_IP:PORTA` 
+    const TRACKER_ADDRESS = `wss://tracker.decamc.net:443` 
 
     // Esempio Alternativo: Se usi solo un dominio/sottodominio e la porta è la 443 standard:
     // const TRACKER_ADDRESS = `wss://IL_TUO_DOMINIO_O_IP` 
